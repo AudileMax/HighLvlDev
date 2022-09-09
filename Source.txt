@@ -6,3 +6,5 @@ git status
 git commit -m"message here"
 git push
 git pull
+
+git clone add link here (https://github.com/AudileMax/HighLvlDev.git)
