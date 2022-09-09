@@ -1,1 +1,8 @@
 My first commit
+
+git status
+git add name of the file
+git status 
+git commit -m"message here"
+git push
+git pull
